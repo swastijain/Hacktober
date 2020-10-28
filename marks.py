@@ -10,4 +10,4 @@ for i in range(0,n):
    total = total + marks
  Average = total / n
 print("Average marks of",n,"students is:",Average)
-# end  
+ 
